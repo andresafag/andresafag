@@ -29,5 +29,5 @@ I am a highly motivated autodidact who thrives on breaking down complex architec
 ---
 
 ### 📬 Connect With Me
-* 💼 **LinkedIn:** [linkedin.com](https://linkedin.com)(https://linkedin.com/in/andres-acosta-afag)
+* 💼 **LinkedIn:** [linkedin.com](https://linkedin.com/in/andres-acosta-afag)
 * 📧 **Email:** andresfelipeacostagarcia34@gmail.com
