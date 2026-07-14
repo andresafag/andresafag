@@ -1,28 +1,33 @@
-# Hi, I'm Andrés Acosta García 👋
+# Hi there, I'm Andres Felipe Acosta Garcia 👋
 
-I am a **DevOps & Cloud Infrastructure Engineer** specializing in Zero-Trust DevSecOps, Infrastructure as Code (Terraform), and containerized orchestration. 
+## 🚀 DevOps & Cloud Infrastructure Engineer
+**Specializing in Zero-Trust DevSecOps, Infrastructure as Code, and Resilient Cloud Architecture.**
 
-💡 **Driven by Continuous Learning:** As a highly motivated **autodidact (self-taught learner)**, I thrive on breaking down complex architectural bottlenecks, quickly mastering new technologies, and comfortably stepping out of my comfort zone to adapt to evolving technical landscapes. I don't just learn tools; I learn the engineering principles behind them.
-
----
-
-### 🚀 Technical Overview & Portfolio Breakdown
-
-My repositories demonstrate an end-to-end understanding of modern engineering, ranging from local systems to secure cloud-native environments:
-
-*   **🛡️ DevSecOps & GitOps Realization:** Implementing automated code quality gates, supply chain security, and ephemeral secret workflows using platforms like **SonarCloud, Snyk, and HashiCorp Vault**. I operate multi-repository GitOps ecosystems separating source code mechanics (`app-repository`) from automated environment state configurations (`app-manifests`).
-*   **☸️ Infrastructure & Resilient Persistence:** Designing high-availability multi-tier deployments using **Docker** and **Kubernetes**—with a focus on handling stateful data resilience (MySQL 8.0 StatefulSets) alongside stateless Node.js APIs within isolated local or cloud structures.
-*   **🔌 Scalable Backend Engineering:** Architecting low-latency, real-time interactive solutions. My stack frequently interfaces with advanced external dependencies—such as real-time **WebRTC / LiveKit** configurations for video environments, memory caching layers via **Redis**, data sync using **Socket.IO**, and full-stack integrations using **Express, Pug, and MongoDB/Mongoose**.
-*   **☕ Desktop & Automation Utilities:** Versed in legacy and standalone desktop environments, engineering administrative **Java** desktop apps integrated with **Hibernate and MySQL**, as well as local automation scripts leveraging **Python (Requests/BeautifulSoup4)** to harvest and parse complex structural datasets.
+I am a highly motivated autodidact who thrives on breaking down complex architectural bottlenecks, mastering new technologies, and comfortably stepping out of my comfort zone to adapt to evolving technical landscapes. I don't just learn tools; I deeply study the engineering principles behind them.
 
 ---
 
-### 📬 Contact & Professional Connections
-
-If you are looking for an adaptable engineer who loves automating workflows, securing infrastructure, or tackling experimental software layers, let's connect!
-
-
-* 💼 **LinkedIn:** [https://linkedin.com](https://www.linkedin.com/in/andr%C3%A9s-acosta-203923238/)
-* 📧 **Email:** (andresfelipeacostagarcia34@gmail.com)
+### 🧰 Tech Stack & Core Competencies
+* **DevSecOps & GitOps:** Automated quality gates, supply chain security, ephemeral secrets (SonarCloud, Snyk, HashiCorp Vault, Multi-repo GitOps Ecosystems)
+* **Cloud & Infrastructure:** Infrastructure as Code (Terraform), Container Orchestration (Docker, Kubernetes, StatefulSets)
+* **Backend Engineering:** Low-latency architectures, WebRTC / LiveKit video environments, Redis memory caching, Socket.IO, Express, MongoDB/Mongoose
+* **Automation & Scripting:** Python (Requests, BeautifulSoup4), Java Desktop App Ecosystems (Hibernate, MySQL)
 
 ---
+
+### 🛡️ Portfolio Breakdown & Architectural Focus
+
+#### 1. DevSecOps & GitOps Realization
+* Implementing automated security controls and separating source code mechanics (`app-repository`) from automated environment state configurations (`app-manifests`).
+
+#### 2. Infrastructure & Resilient Persistence
+* Designing high-availability multi-tier deployments with a focus on stateful data resilience (`MySQL 8.0 StatefulSets`) alongside stateless Node.js APIs within isolated structures.
+
+#### 3. Low-Latency Backend Engineering
+* Architecting real-time interactive solutions and advanced external dependencies (LiveKit media configurations, cache management with Redis).
+
+---
+
+### 📬 Connect With Me
+* 💼 **LinkedIn:** [linkedin.com](https://linkedin.com) *(Note: Ensure you update this to your exact profile link)*
+* 📧 **Email:** andresfelipeacostagarcia34@gmail.com
