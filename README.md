@@ -1,33 +1,35 @@
 # Hi there, I'm Andres Felipe Acosta Garcia 👋
 
-## 🚀 DevOps, Cloud Infrastructure & AI Engineer
-**Specializing in Zero-Trust DevSecOps, Infrastructure as Code, and AI Engineering Integration.**
+## 🚀 LLMOps & Cloud Infrastructure Engineer
 
-I am a highly motivated autodidact who thrives on breaking down complex architectural bottlenecks, mastering new technologies, and comfortably stepping out of my comfort zone to adapt to evolving technical landscapes. I don't just learn tools; I deeply study the engineering principles behind them.
+**Specializing in Production-Grade GenAI Infrastructures, Scalable RAG Architectures, and Automated GitOps Lifecycles.**
+
+I am a highly motivated systems engineer and infrastructure specialist who thrives on breaking down complex architectural bottlenecks in Generative AI workflows. I don't just consume API endpoints; I design and optimize the underlying cloud environments, latency-mitigation strategies, and deployment pipelines that make enterprise AI systems scalable, secure, and cost-effective.
 
 ---
 
 ### 🧰 Tech Stack & Core Competencies
-* **AI Engineering & Automation:** LLM API Integration (DeepSeek, OpenAI), Prompt Engineering, Automated Documentation Workflows, Autonomous Agent Scripting.
-* **DevSecOps & GitOps:** Automated quality gates, supply chain security, ephemeral secrets (SonarCloud, Snyk, HashiCorp Vault, Multi-repo GitOps Ecosystems).
-* **Cloud & Infrastructure:** Infrastructure as Code (Terraform), Containerization (Docker), Resilient Cloud Architectures.
-* **Backend Engineering:** Low-latency architectures, WebRTC / LiveKit video environments, Redis memory caching, Socket.IO, Express, MongoDB/Mongoose.
-* **Automation & Scripting:** Python (Requests, BeautifulSoup4, Data Processing), Java Desktop App Ecosystems (Hibernate, MySQL).
+
+*   **LLMOps & AI Infrastructure:** RAG Production Pipelines, Vector Database Orchestration (ChromaDB, Pinecone, Qdrant), Prompt Engineering Automation, Guardrails & Token Optimization.
+*   **AI Frameworks & Libraries:** LangChain, LlamaIndex, Python Automation, Model Evaluators.
+*   **Infrastructure as Code & Cloud:** Terraform (HCL), AWS (ECS Fargate, Lambda, API Gateway), CloudWatch.
+*   **DevSecOps & GitOps:** Multi-repo GitOps Ecosystems, Containerization (Docker), Automated Quality Gates & Secret Management (SonarCloud, Snyk, HashiCorp Vault).
+*   **High-Performance Backend:** Low-latency Node.js Architectures, Microservices, Real-time media streams (WebRTC / LiveKit), Caching Layers (Redis).
 
 ---
 
-### 🛡️ Portfolio Breakdown & Architectural Focus
+### 🛡 Core Architectural Focus
 
-#### 1. DevSecOps & AI-Driven GitOps Realization
-* Implementing automated security controls, AI-powered repository documentation updates, and separating source code mechanics (`app-repository`) from automated environment state configurations (`app-manifests`).
+#### 1. Production-Grade LLMOps & RAG Realization
+*   Designing automated pipelines for enterprise data ingestion, text chunking, and embedding generation into vector search engines. Focused heavily on minimizing latency and balancing token usage costs.
 
-#### 2. Infrastructure & Resilient Persistence
-* Designing high-availability multi-tier deployments with a focus on stateless Node.js APIs within isolated structures alongside containerized data resilience.
+#### 2. Infrastructure as Code & Resilient Cloud Environments
+*   Provisioning high-availability, declarative, and repeatable multi-tier environments on cloud providers using Terraform, ensuring strict separation between application code and environment states.
 
-#### 3. Low-Latency Backend & AI Engineering
-* Architecting real-time interactive solutions, integrating automated Large Language Model pipelines into workflows, and managing advanced external dependencies (LiveKit media configurations, cache management with Redis).
+#### 3. Enterprise DevSecOps & Security Enforcement
+*   Implementing zero-trust continuous integration setups, supply-chain security checks, automated documentation agents, and ephemeral credential injections to guarantee compliance before deployment.
 
----
+--- 
 
 ### 📬 Connect With Me
 * 💼 **LinkedIn:** [linkedin.com](https://linkedin.com/in/andres-acosta-afag)
